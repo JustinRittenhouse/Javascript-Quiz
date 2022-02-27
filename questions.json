@@ -1,0 +1,242 @@
+[
+    [
+        {
+            "question": "Type the letter 'a'.",
+            "answers": ["a", "A"]
+        },
+        {
+            "question": "Type the letter 'b'.",
+            "answers": ["b", "B"]
+        },
+        {
+            "question": "Type the letter 'c'.",
+            "answers": ["c", "C"]
+        },
+        {
+            "question": "Type the letter 'd'.",
+            "answers": ["d", "D"]
+        },
+        {
+            "question": "Type the letter 'e'.",
+            "answers": ["e", "E"]
+        },
+        {
+            "question": "Type the letter 'f'.",
+            "answers": ["f", "F"]
+        },
+        {
+            "question": "Type the letter 'g'.",
+            "answers": ["g", "G"]
+        },
+        {
+            "question": "Type the letter 'h'.",
+            "answers": ["h", "H"]
+        },
+        {
+            "question": "Type the letter 'i'.",
+            "answers": ["i", "I"]
+        },
+        {
+            "question": "Type the letter 'j'.",
+            "answers": ["j", "J"]
+        }
+    ],
+    [
+        {
+            "question": "What is 1+1?",
+            "answers": ["2", "11", "1+1", "1 + 1", "1+ 1", "1 +1"]
+        },
+        {
+            "question": "What is 2+2?",
+            "answers": ["4", "22", "2+2", "2 + 2", "2+ 2", "2 +2"]
+        },
+        {
+            "question": "What is 3+3?",
+            "answers": ["6", "33", "3+3", "3 + 3", "3+ 3", "3 +3"]
+        },
+        {
+            "question": "What is 4+4?",
+            "answers": ["8", "44", "4+4", "4 + 4", "4+ 4", "4 +4"]
+        },
+        {
+            "question": "What is 5+5?",
+            "answers": ["10", "55", "5+5", "5 + 5", "5+ 5", "5 +5"]
+        },
+        {
+            "question": "What is 6+6?",
+            "answers": ["12", "66", "6+6", "6 + 6", "6+ 6", "6 +6"]
+        },
+        {
+            "question": "What is 7+7?",
+            "answers": ["14", "77", "7+7", "7 + 7", "7+ 7", "7 +7"]
+        },
+        {
+            "question": "What is 8+8?",
+            "answers": ["16", "88", "8+8", "8 + 8", "8+ 8", "8 +8"]
+        },
+        {
+            "question": "What is 9+9?",
+            "answers": ["18", "99", "9+9", "9 + 9", "9+ 9", "9 +9"]
+        }
+    ],
+    [
+        {
+            "question": "What is the country that borders the USA to the north?",
+            "answers": ["Canada", "canada", "CA", "ca"]
+        },
+        {
+            "question": "What is the second largest country in the world?",
+            "answers": ["Canada", "canada", "CA", "ca"]
+        },
+        {
+            "question": "What is the country that exports the most maple syrup?",
+            "answers": ["Canada", "canada", "CA", "ca"]
+        },
+        {
+            "question": "What is the country has a province named 'Quebec'?",
+            "answers": ["Canada", "canada", "CA", "ca"]
+        },
+        {
+            "question": "What is the country that has the largest coastline in the world?",
+            "answers": ["Canada", "canada", "CA", "ca"]
+        },
+        {
+            "question": "What is the country that contains over half of all the world's lakes?",
+            "answers": ["Canada", "canada", "CA", "ca"]
+        },
+        {
+            "question": "Ottawa is the capital city of what country?",
+            "answers": ["Canada", "canada", "CA", "ca"]
+        },
+        {
+            "question": "What does 'C-A-N-A-D-A' spell?",
+            "answers": ["Canada", "canada", "C-A-N-A-D-A", "c-a-n-a-d-a"]
+        }
+    ],
+    [
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        },
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        },
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        },
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        },
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        },
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        },
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        }
+    ],
+    [
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        },
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        },
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        },
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        },
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        },
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        }
+    ],
+    [
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        },
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        },
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        },
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        },
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        }
+    ],
+    [
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        },
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        },
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        },
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        }
+    ],
+    [
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        },
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        },
+        {
+            "question": "Something",
+            "answers": ["something", "Something"]
+        }
+    ],
+    [
+        {
+            "question": "What is the antiderivate of f(x)=1/x ? [Do not type any spaces in your answer.]",
+            "answers": ["ln(x)", "ln(|x|)", "f(x)=ln(x)", "F(x)=ln(x)", "f(x)=ln(|x|)", "F(x)=ln(|x|)", "ln(x)+C", "ln(|x|)+C", "f(x)=ln(x)+C", "F(x)=ln(x)+C", "f(x)=ln(|x|)+C", "F(x)=ln(|x|)+C", "ln(x)+c", "ln(|x|)+c", "f(x)=ln(x)+c", "F(x)=ln(x)+c", "f(x)=ln(|x|)+c", "F(x)=ln(|x|)+c"]
+        },
+        {
+            "question": "What is the infinite sum of the series 4 - 4/3 + 4/5 - 4/7 + 4/9 - ... ?",
+            "answers": ["pi", "Pi", "PI", "3.14", "3.142", "3.1415", "π"]
+        }
+    ],
+    [
+        {
+            "question": "What number was Justin Rittenhouse thinking of when he wrote this question?",
+            "answers": ["0.1"]
+        }
+    ]
+]

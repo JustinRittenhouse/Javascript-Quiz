@@ -1,0 +1,57 @@
+body {
+    background-color: antiquewhite;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+h1 {
+    background-color: rgb(228, 191, 146);
+    padding: 8px 15px;
+    border: solid;
+    border-color: rgb(148, 124, 95);
+    color: rgb(107, 86, 61);
+    border-radius: 4px;
+}
+
+.card {
+    transition: background-color 2s, color 2s;
+}
+
+.neutral {
+    color: rgb(100, 100, 100);
+}
+
+.success {
+    background-color: rgb(133, 221, 133);
+    color: rgb(37, 148, 37);
+}
+
+.failure {
+background-color: rgb(245, 121, 121);
+color: rgb(189, 27, 27);
+}
+
+results {
+    border: solid 1px rgb(151, 151, 151);
+    border-radius: 5px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    z-index: 100;
+    box-shadow: 0 0 40px 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 2s;
+}
