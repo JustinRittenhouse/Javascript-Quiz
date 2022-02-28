@@ -149,28 +149,28 @@
     ],
     [
         {
-            "question": "Something",
-            "answers": ["something", "Something"]
+            "question": "Johannes Gutenberg revolutionized the spread of information with his invention of the _________.",
+            "answers": ["printing press", "Printing Press", "Printing press"]
         },
         {
-            "question": "Something",
-            "answers": ["something", "Something"]
+            "question": "Charles Babbage is often credited as being the first person to conceive the __________.",
+            "answers": ["computer", "Computer"]
         },
         {
-            "question": "Something",
-            "answers": ["something", "Something"]
+            "question": "Boy scientist Jimmy Neutron invented his own pet! A dog named _________.",
+            "answers": ["Goddard"]
         },
         {
-            "question": "Something",
-            "answers": ["something", "Something"]
+            "question": "Thomas Edison's rival, _________, invented alternating current.",
+            "answers": ["Tesla", "Nikola Tesla", "Nikola"]
         },
         {
-            "question": "Something",
-            "answers": ["something", "Something"]
+            "question": "Alexander Graham Bell helpe us connect a little easier by inventing the first _________.",
+            "answers": ["phone", "Phone", "telelphone", "Telephone"]
         },
         {
-            "question": "Something",
-            "answers": ["something", "Something"]
+            "question": "Thomas Edison is known for inventing the _________.",
+            "answers": ["lightbulb", "Lightbulb", "light bulb", "Light Bulb", "Light bulb", "light globes"]
         }
     ],
     [

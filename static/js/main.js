@@ -72,5 +72,4 @@ const createResults = () => {
             document.querySelector("main").appendChild(results)
             document.querySelector("results").style.opacity = 1
 }
-
 makeQuestion()
