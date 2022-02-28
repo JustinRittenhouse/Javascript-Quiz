@@ -81,6 +81,40 @@
     ],
     [
         {
+            "question": "What color do you get if you mix red and yellow?",
+            "answers": ["orange", "Orange"]
+        },
+        {
+            "question": "What color do you get if you mix red and green?",
+            "answers": ["brown", "Brown", "yellow", "Yellow"]
+        },
+        {
+            "question": "What color do you get if you mix blue and red?",
+            "answers": ["violet", "Violet", "purple", "Purple", "magenta", "Magenta"]
+        },
+        {
+            "question": "What color do you get if you mix black and white?",
+            "answers": ["gray", "Gray", "grey", "Gray"]
+        },
+        {
+            "question": "What color do you get if mix white and red?",
+            "answers": ["pink", "Pink"]
+        },
+        {
+            "question": "What color do you get if you mix yellow and violet?",
+            "answers": ["black", "Black", "white", "White"]
+        },
+        {
+            "question": "What color do you get if you mix red with red?",
+            "answers": ["red", "Red", "Uh...red?"]
+        },
+        {
+            "question": "What color do you get if you mix all of the colors together?",
+            "answers": ["black", "Black", "white", "White"]
+        }
+    ],
+    [
+        {
             "question": "What is the country that borders the USA to the north?",
             "answers": ["Canada", "canada", "CA", "ca"]
         },
@@ -137,58 +171,28 @@
         {
             "question": "Something",
             "answers": ["something", "Something"]
-        },
-        {
-            "question": "Something",
-            "answers": ["something", "Something"]
         }
     ],
     [
         {
-            "question": "Something",
+            "question": "Every cell is enclosed by a cell _________ that acts as the cell's wall.",
+            "answers": ["membrane", "Membrane"]
+        },
+        {
+            "question": "The _________ is the control center of the cell that holds the DNA.",
+            "answers": ["nucleus", "Nucleus"]
+        },
+        {
+            "question": "The _________ is known as the 'power house' of the cell as it produces energy using glucose and oxygen.",
             "answers": ["something", "Something"]
         },
         {
-            "question": "Something",
-            "answers": ["something", "Something"]
+            "question": "The _________ in cells help link amino acids together to form proteins.",
+            "answers": ["ribosome", "Ribosome"]
         },
         {
-            "question": "Something",
-            "answers": ["something", "Something"]
-        },
-        {
-            "question": "Something",
-            "answers": ["something", "Something"]
-        },
-        {
-            "question": "Something",
-            "answers": ["something", "Something"]
-        },
-        {
-            "question": "Something",
-            "answers": ["something", "Something"]
-        }
-    ],
-    [
-        {
-            "question": "Something",
-            "answers": ["something", "Something"]
-        },
-        {
-            "question": "Something",
-            "answers": ["something", "Something"]
-        },
-        {
-            "question": "Something",
-            "answers": ["something", "Something"]
-        },
-        {
-            "question": "Something",
-            "answers": ["something", "Something"]
-        },
-        {
-            "question": "Something",
-            "answers": ["something", "Something"]
+            "question": "The _________ is a dense region in the nucleus of a cell that is made up of RNA.",
+            "answers": ["nucleolus", "Nucleolus"]
         }
     ],
     [
@@ -211,22 +215,22 @@
     ],
     [
         {
-            "question": "Something",
-            "answers": ["something", "Something"]
+            "question": "What would be the highest of the three notes of an augmented G chord?",
+            "answers": ["d#", "D#", "d sharp", "D sharp", "D Sharp"]
         },
         {
-            "question": "Something",
-            "answers": ["something", "Something"]
+            "question": "Which of the three notes in a major triad would you have to shift to make it minor? The lower, the middle, or the higher note?",
+            "answers": ["middle", "Middle", "middle note", "Middle Note", "the middle", "The Middle", "The middle", "the middle note", "The Middle Note", "The middle note", "third", "the third", "Third", "The Third"]
         },
         {
-            "question": "Something",
-            "answers": ["something", "Something"]
+            "question": "The major scale is also known as the _________ mode. ",
+            "answers": ["ionian", "Ionian"]
         }
     ],
     [
         {
             "question": "What is the antiderivate of f(x)=1/x ? [Do not type any spaces in your answer.]",
-            "answers": ["ln(x)", "ln(|x|)", "f(x)=ln(x)", "F(x)=ln(x)", "f(x)=ln(|x|)", "F(x)=ln(|x|)", "ln(x)+C", "ln(|x|)+C", "f(x)=ln(x)+C", "F(x)=ln(x)+C", "f(x)=ln(|x|)+C", "F(x)=ln(|x|)+C", "ln(x)+c", "ln(|x|)+c", "f(x)=ln(x)+c", "F(x)=ln(x)+c", "f(x)=ln(|x|)+c", "F(x)=ln(|x|)+c"]
+            "answers": ["lnx", "ln|x|", "ln(x)", "ln(|x|)", "f(x)=ln(x)", "F(x)=ln(x)", "f(x)=ln(|x|)", "F(x)=ln(|x|)", "ln(x)+C", "ln(|x|)+C", "f(x)=ln(x)+C", "F(x)=ln(x)+C", "f(x)=ln(|x|)+C", "F(x)=ln(|x|)+C", "ln(x)+c", "ln(|x|)+c", "f(x)=ln(x)+c", "F(x)=ln(x)+c", "f(x)=ln(|x|)+c", "F(x)=ln(|x|)+c"]
         },
         {
             "question": "What is the infinite sum of the series 4 - 4/3 + 4/5 - 4/7 + 4/9 - ... ?",
