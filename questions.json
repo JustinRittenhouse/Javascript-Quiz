@@ -197,16 +197,16 @@
     ],
     [
         {
-            "question": "Something",
-            "answers": ["something", "Something"]
+            "question": "The classic progressive rock band _________ released it's album In the Court of the Crimson King in 1969.",
+            "answers": ["King Crimson"]
         },
         {
-            "question": "Something",
-            "answers": ["something", "Something"]
+            "question": "The Beatles released their 9th studio album in 1968. It had no graphic on the record sleeve, giving it the nickname _________.",
+            "answers": ["the white album", "The White Album", "The white album"]
         },
         {
-            "question": "Something",
-            "answers": ["something", "Something"]
+            "question": "Radiohead took a stylistic left turn with their 4th studio album _________. It received mixed reception at the time, but is now seen as a cultural influence for electronic music.",
+            "answers": ["Kid A", "Kid a", "kid a"]
         },
         {
             "question": "Something",
